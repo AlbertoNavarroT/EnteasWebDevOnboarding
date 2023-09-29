@@ -50,6 +50,7 @@ Install Visual Studio Code https://code.visualstudio.com/download
 5. Optional for further development
     - Couchbase
         - https://github.com/couchbase/couchnode
+    
         - https://docs.couchbase.com/server/current/install/install-intro.html
         - "npm install couchbase"
 
